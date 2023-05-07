@@ -12,4 +12,15 @@ After 12 years at Capita, I went solo. It was a long held ambition to set up my 
 
 Ten years later and it was time to close the shop as I'd moved to France. These days I still do odd bits of consulting, but mostly I work for CABI, an intergovernmental organisation that "creates and applies knowledge that addresses challenges faced by people around the world". It's a scientific institution, a publishing house and an international development organisation. The team I lead is at the heart of all that - taking the lessons learnt by our scientists and converting them into qualifications and courses for those supporting smallholder farmers around the world.
 
+## Acknowledgements
+
 Throughout my career, I've been an active blogger and contributor on social media. I am indebted to the many colleagues and connections who have helped me on my journey, through their own contributions to our shared understanding.
+
+These include:
+
+- Stephen Downes
+- Harold Jarche
+- George Siemens
+- Zolt
+
+
