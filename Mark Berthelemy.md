@@ -21,6 +21,7 @@ These include:
 - Stephen Downes
 - Harold Jarche
 - George Siemens
+- Jay Cross
 - Zolt
 
 
